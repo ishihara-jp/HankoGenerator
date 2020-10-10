@@ -1,0 +1,2 @@
+# HankoGenerator
+GANを用いたハンコのフェイク画像生成サンプル
