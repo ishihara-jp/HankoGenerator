@@ -36,6 +36,8 @@ python SAGAN_hanko.py
     ```
     python SAGAN_hanko.py 500
     ```
+- 実験結果など
+  - Qiita記事 [「GANでハンコジェネレーターをつくってみた」](https://qiita.com/ishihara-jp/items/c587f778c232cc916112)
 
 ## 参考
 - 「つくりながら学ぶ！PyTorchによる発展ディープラーニング」
